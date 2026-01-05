@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**JuanRM17/JuanRM17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I´m Juan Pablo, a Computer System Engineer and appasionated software designer based in México.  
 
-Here are some ideas to get you started:
+I’m currently working on my drink water movile app.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently learning about ux/ui design.
+I specialice working with python, java, PostgreSQL, MySQL and my favorite tools are the jetbrains suit, figma, and my classics pen and paper.
+
+I´ve worked in several diferent projects, but some of myy favorites you can find it her in my profile.
+
+Fun facts: 
+ - I like the woodworking and furniture stuff.
+ - I enjoy drawing and painting as one of my main hobbies
+ - My favorite animal are the horses, bull and dogs
+ - My favorite book is Pedro Paramo
